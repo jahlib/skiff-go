@@ -1,0 +1,16 @@
+# Build output and local machine files
+local.properties
+.gradle/
+build/
+*.iml
+.idea/
+.kotlin/
+*.apk
+*.aab
+# Signing material
+*.jks
+*.keystore
+keystore.properties
+
+# The firmware sources used as the protocol reference
+second_os/
